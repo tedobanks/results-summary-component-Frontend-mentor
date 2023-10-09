@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "bgColor": "hsla(0, 100%, 67%, 0.1)",
+        "color": "hsl(0, 100%, 67%)",
+        "icon": "src/assets/images/icon-reaction.svg",
+        "tag": "Reaction",
+        "score": 80,
+        "benchmark": 100
+    },
+    {
+        "id": 2,
+        "bgColor": "hsla(39, 100%, 56%, 0.1)",
+        "color": "hsl(39, 100%, 56%)",
+        "icon": "src/assets/images/icon-memory.svg",
+        "tag": "Memory",
+        "score": 92,
+        "benchmark": 100
+    },
+    {
+        "id": 3,
+        "bgColor": "hsla(166, 100%, 37%, 0.1)",
+        "color": "hsl(166, 100%, 37%)",
+        "icon": "src/assets/images/icon-verbal.svg",
+        "tag": "Verbal",
+        "score": 61,
+        "benchmark": 100
+    },
+    {
+        "id": 4,
+        "bgColor": "hsla(234, 85%, 45%, 0.1)",
+        "color":"hsl(234, 85%, 45%)",
+        "icon": "src/assets/images/icon-visual.svg",
+        "tag": "Visual",
+        "score": 72,
+        "benchmark": 100
+    }
+]
